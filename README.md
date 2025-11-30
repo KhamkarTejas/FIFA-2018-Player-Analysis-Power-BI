@@ -81,12 +81,11 @@ Through this project, I developed stronger skills in:
 
 ---
 
-## 🔗 Live Dashboard / LinkedIn Post
+## 🔗 Connect With Me
+**👤 Tejas Khamkar**  
+Aspiring Data Analyst | Excel | SQL | PYTHON | POWERBI 
 
-(Replace the link once uploaded)
-
-👉 *Dashboard Link:* https://your-link-here  
-👉 *LinkedIn Post:* https://your-link-here  
+📫 [LinkedIn](www.linkedin.com/in/tejaskhamkar)  
 
 ---
 
